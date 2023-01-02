@@ -1,5 +1,5 @@
-# .NET-5.0-Microservices
-.Net 5.0 ile Microservice Architecture
+# .NET-7.0-Microservices
+.Net 7.0 ile Microservice Architecture
 Asynchronous and Aynchronous between Microservices
 API Gateway ( Ocelot Libarary)
 RabbitMQ
